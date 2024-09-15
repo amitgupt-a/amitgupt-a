@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Latest Technologies & Innovations**
 
-- 📫 How to reach me **https://linktr.ee/adityabansal2310**
+- 📫 How to reach me **[https://www.linkedin.com/in/amit-gupta-0a2034237]**
 
 - ⚡ Fun fact **When in doubt // it out**  
 
