@@ -21,13 +21,4 @@
 </p>
 <h3 align="left"> 📈 Some of my Github Stats: </h3>
 
-<p align= "center">
-<a href="http://www.github.com/amitgupt-a"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaBansal2310&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityabansal2310" alt="adityabansal2310" /></a> </p>
-
-
-![](https://komarev.com/ghpvc/?username=AdityaBansal2310)  
-
  
