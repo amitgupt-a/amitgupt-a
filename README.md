@@ -19,6 +19,5 @@
 <a href="https://twitter.com/aditya_bansal_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya_bansal_2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditya-bansal-8068b923a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-bansal-8068b923a" height="30" width="40" /></a>
 </p>
-<h3 align="left"> 📈 Some of my Github Stats: </h3>
 
  
